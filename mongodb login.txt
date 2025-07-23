@@ -1,3 +1,1 @@
 Mongodb atlas login
-dhanyaveerepalli@gmail.com
-Vnsdnit0522@mongo
